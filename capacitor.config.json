@@ -1,0 +1,11 @@
+{
+  "appId": "com.aizenvisuals.novae",
+  "appName": "Novae",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
